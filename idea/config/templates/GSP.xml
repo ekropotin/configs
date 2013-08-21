@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templateSet group="GSP">
+  <template name="each" value="&lt;g:each in=&quot;$END$&quot; &gt;&#10;$SELECTION$&#10;&lt;/g:each&gt;" description="Surround with &lt;g:each&gt;&lt;/g:each&gt;" toReformat="true" toShortenFQNames="false">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="OGNL" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="MXML" value="false" />
+      <option name="HAML" value="false" />
+      <option name="Python" value="false" />
+      <option name="Django" value="false" />
+    </context>
+  </template>
+  <template name="if" value="&lt;g:if test=&quot;$END$&quot; &gt;&#10;$SELECTION$&#10;&lt;/g:if&gt;" description="Surround with &lt;g:if&gt;&lt;/g:if&gt;" toReformat="true" toShortenFQNames="false">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="ColdFusion" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="GROOVY_EXPRESSION" value="false" />
+      <option name="GROOVY_STATEMENT" value="false" />
+      <option name="GROOVY_DECLARATION" value="false" />
+      <option name="OGNL" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="MXML" value="false" />
+      <option name="HAML" value="false" />
+      <option name="Python" value="false" />
+      <option name="Django" value="false" />
+    </context>
+  </template>
+</templateSet>
+
