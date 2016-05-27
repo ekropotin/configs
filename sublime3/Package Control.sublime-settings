@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Color Highlighter",
+		"Emmet",
+		"Gist",
+		"Goto-CSS-Declaration",
+		"Grunt",
+		"Handlebars",
+		"JSX",
+		"LESS",
+		"Package Control",
+		"Perforce",
+		"ReactJS",
+		"Shell Turtlestein"
+	]
+}
